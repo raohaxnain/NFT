@@ -1,0 +1,98 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #06071B;
+    color: white;
+}
+
+/* ====---- NAVBAR ====== */
+#navbarNav .nav-link {
+    color: white !important;
+    margin-right: 2rem;
+}
+
+#navbarNav .nav-link:hover {
+    color: #F87700 !important;
+}
+
+#navbarNav .active {
+    color: #F87700 !important;
+}
+
+/* ============ HERO SECTION =========== */
+
+.color-ornge {
+    color: #F87700;
+}
+
+.trade-btn {
+    background-color: #F87700;
+    padding: 9px 30px;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+#trade .add-btn {
+    border: 2px solid #F87700;
+    color: #F87700;
+    padding: 9px 30px;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+/* =========== CARD ========== */
+/* #card{
+    background-image: url(../images/bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+    background-size: 100% 100% !important;
+} */
+#card .card{
+    background-color: #0E0F23;
+}
+#imag {
+    position: absolute;
+    left: 0%;
+    top: -90%;
+}
+/* ======== SECTION ======== */
+.img-bg{
+    background-image: url(../images/lyr.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height:100%;
+    background-size: 100% 100% !important;
+}
+.img-bg1{
+    background-image: url(../images/pink.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height:100%;
+    background-size: 100% 100% !important;
+}
+.img-bg3{
+    background-image: url(../images/purpl.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height:100%;
+    background-size: 100% 100% !important;
+}
+/* ====----- FOTOR ========= */
+.footr{
+    border-top: 1px solid #444444;
+}
+.boder{
+    border-right: 1px solid #444444;
+}
+.footr p{
+    color: #444444;
+    font-weight:600;
+}
+#link a #b{
+    display: none;
+}
+#link a:hover #b{
+    display: inline;
+}
+#link a:hover #a{
+    display: none;
+}
